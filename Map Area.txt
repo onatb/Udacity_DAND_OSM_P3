@@ -1,0 +1,8 @@
+Ankara the capital of Turkey is chosen for this project because Ankara is my hometown and I'm currently living in this city. 
+With a population of 5,150,072 in its province (2015), it is Turkey's second largest city behind Istanbul.
+
+More information can be found here:
+https://en.wikipedia.org/wiki/Ankara
+
+Link to map position:
+http://www.openstreetmap.org/export/embed.html?bbox=32.48039245605469%2C39.75735212859945%2C33.00636291503906%2C40.071240896874585&amp;layer=mapnik

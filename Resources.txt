@@ -1,0 +1,17 @@
+About iter parse function
+http://effbot.org/zone/element-iterparse.htm
+http://stackoverflow.com/questions/7171140/using-python-iterparse-for-large-xml-files
+
+Ipython table of contents
+http://stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-an-ipython-notebook
+https://github.com/kmahelona/ipython_notebook_goodies
+
+Ipython markdown
+https://ipython.org/ipython-doc/1/interactive/notebook.html
+http://www.google.com/design/spec/style/color.html#color-color-palette
+
+About unicode problem
+http://nedbatchelder.com/text/unipain.html
+http://stackoverflow.com/questions/18193305/python-unicode-equal-comparison-failed
+http://stackoverflow.com/questions/3400171/python-utf-8-comparison
+
